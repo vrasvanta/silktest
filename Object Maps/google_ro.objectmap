@@ -1,0 +1,7 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="google_ro" locator="//BrowserApplication" urlPattern="*google.ro*">
+    <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow">
+      <ObjectMapEntry id="lst-ib" locator="//input[@id=&apos;lst-ib&apos;]"/>
+    </ObjectMapEntry>
+  </ObjectMapEntry>
+</ObjectMap>

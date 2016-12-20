@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SilkPerformerLog version="1"
+                  buildInfo="Generated with Silk Performer 17.0.0.7087"
+                  script="" usergroup="" profile="" perspective="TruelogViewer"
+                  interfaces="SILKTEST">
+  <Transaction id="3" time="2016-12-15; 16:16:38"
+               timeStamp="|38|16|16|15|11|116|4|349|0|" tick="2825444727"
+               file="KeywordRunner.java" bdlLine="0" transidx="1">
+    Script KeywordRunner.java
+  </Transaction>
+  <SilkTestDoc id="4"
+               time="2016-12-15; 16:16:38"
+               timeStamp="|38|16|16|15|11|116|4|349|0|"
+               tick="2825444727"
+               ApiHandle=""
+               file=""
+               bdlLine="0"
+               status="0"
+               ApiCtxt="//*/*[3]"
+               ApiRefType="parent">
+    Testcase Test1
+  </SilkTestDoc>
+  <SilkTestDoc id="5"
+               time="2016-12-15; 16:16:38"
+               timeStamp="|38|16|16|15|11|116|4|349|0|"
+               tick="2825444733"
+               ApiHandle=""
+               file=""
+               bdlLine="0"
+               status="0"
+               ApiCtxt="//*/*[4]"
+               ApiRefType="parent">
+    Keyword Start application ()
+  </SilkTestDoc>
+  <ApiProp id="6" apicall="//*/*[5]" propId="18" propName="ROOT"></ApiProp>
+  <ApiProp id="7" apicall="//*/*[5]" propId="18" propName="CID">18</ApiProp>
+  <ApiProp id="8" apicall="//*/*[5]" propId="18" propName="ID"></ApiProp>
+  <ApiProp id="9" apicall="//*/*[5]" propId="18" propName="V"></ApiProp>
+  <ApiProp id="10" apicall="//*/*[5]" propId="18" propName="TN"></ApiProp>
+  <ApiProp id="11" apicall="//*/*[5]" propId="18" propName="T">0</ApiProp>
+  <ApiProp id="12" apicall="//*/*[5]" propId="18" propName="BID"></ApiProp>
+  <ApiProp id="13" apicall="//*/*[5]" propId="18" propName="PID">0</ApiProp>
+  <Apiinfo id="14" time="2016-12-15; 16:16:41"
+           timeStamp="|41|16|16|15|11|116|4|349|0|" idx="//*/*[5]" severity="0">
+    Elapsed Time: 00:00:04
+  </Apiinfo>
+  <SilkTestDoc id="15"
+               time="2016-12-15; 16:16:41"
+               timeStamp="|41|16|16|15|11|116|4|349|0|"
+               tick="2825448508"
+               ApiHandle=""
+               file=""
+               bdlLine="0"
+               status="0"
+               ApiCtxt="//*/*[4]"
+               ApiRefType="parent">
+    Keyword Untitled keyword ()
+  </SilkTestDoc>
+  <ApiProp id="16" apicall="//*/*[15]" propId="19" propName="ROOT"></ApiProp>
+  <ApiProp id="17" apicall="//*/*[15]" propId="19" propName="CID">19</ApiProp>
+  <ApiProp id="18" apicall="//*/*[15]" propId="19" propName="ID"></ApiProp>
+  <ApiProp id="19" apicall="//*/*[15]" propId="19" propName="V"></ApiProp>
+  <ApiProp id="20" apicall="//*/*[15]" propId="19" propName="TN"></ApiProp>
+  <ApiProp id="21" apicall="//*/*[15]" propId="19" propName="T">0</ApiProp>
+  <ApiProp id="22" apicall="//*/*[15]" propId="19" propName="BID"></ApiProp>
+  <ApiProp id="23" apicall="//*/*[15]" propId="19" propName="PID">0</ApiProp>
+  <SilkTestDoc id="24"
+               time="2016-12-15; 16:16:41"
+               timeStamp="|41|16|16|15|11|116|4|349|0|"
+               tick="2825448638"
+               ApiHandle=""
+               file=""
+               bdlLine="0"
+               status="0"
+               ApiCtxt="//*/*[15]"
+               ApiRefType="parent">
+    Click &apos;lst-ib&apos; at 449, 14
+  </SilkTestDoc>
+  <Apiinfo id="25" time="2016-12-15; 16:16:41"
+           timeStamp="|41|16|16|15|11|116|4|349|0|" idx="//*/*[24]" severity="0">
+    DomTextField.Click(button: 1, pos: {449,14})
+  </Apiinfo>
+  <Apiinfo id="26" time="2016-12-15; 16:16:41"
+           timeStamp="|41|16|16|15|11|116|4|349|0|" idx="//*/*[24]" severity="0">
+    Locator: google_ro.BrowserWindow.lst-ib
+  </Apiinfo>
+  <ApiProp id="27" apicall="//*/*[24]" propId="0" propName="CS">GoogleTest.untitled_keyword|GoogleTest.java|21|</ApiProp>
+  <ApiProp id="28" apicall="//*/*[24]" propId="20" propName="ROOT"></ApiProp>
+  <ApiProp id="29" apicall="//*/*[24]" propId="20" propName="CID">20</ApiProp>
+  <ApiProp id="30" apicall="//*/*[24]" propId="20" propName="ID"></ApiProp>
+  <ApiProp id="31" apicall="//*/*[24]" propId="20" propName="V"></ApiProp>
+  <ApiProp id="32" apicall="//*/*[24]" propId="20" propName="TN"></ApiProp>
+  <ApiProp id="33" apicall="//*/*[24]" propId="20" propName="T">0</ApiProp>
+  <ApiProp id="34" apicall="//*/*[24]" propId="20" propName="BID"></ApiProp>
+  <ApiProp id="35" apicall="//*/*[24]" propId="20" propName="PID">0</ApiProp>
+  <SilkTestDoc id="36"
+               time="2016-12-15; 16:16:42"
+               timeStamp="|42|16|16|15|11|116|4|349|0|"
+               tick="2825448914"
+               ApiHandle=""
+               file=""
+               bdlLine="0"
+               status="0"
+               ApiCtxt="//*/*[15]"
+               ApiRefType="parent">
+    Enter &apos;test&lt;Enter&gt;&apos; into &apos;lst-ib&apos;
+  </SilkTestDoc>
+  <Apiinfo id="37" time="2016-12-15; 16:16:42"
+           timeStamp="|42|16|16|15|11|116|4|349|0|" idx="//*/*[36]" severity="0">
+    DomTextField.TypeKeys(keys: test&lt;Enter&gt;)
+  </Apiinfo>
+  <Apiinfo id="38" time="2016-12-15; 16:16:42"
+           timeStamp="|42|16|16|15|11|116|4|349|0|" idx="//*/*[36]" severity="0">
+    Locator: google_ro.BrowserWindow.lst-ib
+  </Apiinfo>
+  <ApiProp id="39" apicall="//*/*[36]" propId="0" propName="CS">GoogleTest.untitled_keyword|GoogleTest.java|22|</ApiProp>
+  <ApiProp id="40" apicall="//*/*[36]" propId="21" propName="ROOT"></ApiProp>
+  <ApiProp id="41" apicall="//*/*[36]" propId="21" propName="CID">21</ApiProp>
+  <ApiProp id="42" apicall="//*/*[36]" propId="21" propName="ID"></ApiProp>
+  <ApiProp id="43" apicall="//*/*[36]" propId="21" propName="V"></ApiProp>
+  <ApiProp id="44" apicall="//*/*[36]" propId="21" propName="TN"></ApiProp>
+  <ApiProp id="45" apicall="//*/*[36]" propId="21" propName="T">0</ApiProp>
+  <ApiProp id="46" apicall="//*/*[36]" propId="21" propName="BID"></ApiProp>
+  <ApiProp id="47" apicall="//*/*[36]" propId="21" propName="PID">0</ApiProp>
+  <Apiinfo id="48" time="2016-12-15; 16:16:44"
+           timeStamp="|44|16|16|15|11|116|4|349|0|" idx="//*/*[15]" severity="0">
+    Elapsed Time: 00:00:03
+  </Apiinfo>
+  <Apiinfo id="49" time="2016-12-15; 16:16:44"
+           timeStamp="|44|16|16|15|11|116|4|349|0|" idx="//*/*[4]" severity="0">
+    Elapsed Time: 00:00:06
+  </Apiinfo>
+  <Apiinfo id="50" time="2016-12-15; 16:16:44"
+           timeStamp="|44|16|16|15|11|116|4|349|0|" idx="//*/*[3]" severity="0">
+    Elapsed Time: 00:00:06
+  </Apiinfo>
+</SilkPerformerLog>
