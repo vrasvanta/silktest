@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <recorderProject version="17.0">
   <applicationConfiguration>
-    <browserType>GoogleChrome</browserType>
+    <browserType>InternetExplorer</browserType>
     <baseStateInfo>
       <locator>//BrowserApplication</locator>
       <url>www.google.ro</url>
