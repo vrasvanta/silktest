@@ -4,6 +4,7 @@ import com.borland.silktest.jtf.BrowserBaseState;
 import com.borland.silktest.jtf.xbrowser.DomTextField;
 import com.borland.silktest.jtf.common.types.MouseButton;
 import com.borland.silktest.jtf.common.types.Point;
+import com.borland.silktest.jtf.common.BrowserType;
 
 public class GoogleTest {
 
@@ -11,9 +12,9 @@ public class GoogleTest {
 
 	@Keyword(value = "Start application", isBaseState = true)
 	public void start_application() {
-		// Go to web page 'www.google.ro'
-		BrowserBaseState baseState = new BrowserBaseState();
-		baseState.execute(desktop);
+// -- in case no other browser is specified, this will be chosen as default
+		BrowserType browserType = BrowserType.Firefox;
+		BrowserBaseState baseState = new BrowserBaseState(browserType, "http://www.google.ro");
 	}
 
 	@Keyword("Untitled keyword")
